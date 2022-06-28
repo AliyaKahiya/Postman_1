@@ -135,3 +135,5 @@ response:
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
           }
+          
+ Cсылка на домашнее задание по Postman - https://www.postman.com/speeding-shuttle-402896/workspace/test-workspace/collection/20977683-a5020411-ff53-4b09-a614-d443289d5ee5?action=share&creator=20977683
